@@ -1,0 +1,29 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.container{
+    text-align: center;
+    margin: 30px;
+}
+
+.dice{
+    display: inline-block;
+    margin: 30px;
+}
+
+h1{
+    font-size: 50px;
+    color: crimson;
+    margin: 50px;
+}
+
+p{
+    font-size: 47px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+}
